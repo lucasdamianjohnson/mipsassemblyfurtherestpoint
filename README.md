@@ -1,8 +1,8 @@
-# mipsassemblyfurtherestpoint
-MIPS Assembly furtherest point program. 
+#MIPS Assembly Furthest Point Program
 I made this program while taking a class at Michigan Tech. It is written in MIPS assembly. 
 
-This programs reads in x and y points then determines which one is farthest from the orgin (0,0)after (0,0) is entered in. 
+This programs reads in x and y points then determines which one is farthest from the orgin (0,0)
+after (0,0) is entered in. 
 
 
 In the respirtory I also included a program to compile the code. You can also get it below:
